@@ -1,0 +1,8 @@
+@use '../global' as *;
+
+.bg-red {
+  background: $color-red;
+  @include sp {
+    background: green;
+  }
+}
