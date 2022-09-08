@@ -23,5 +23,9 @@
     "iOS >= 9.0",
     "Android >= 5",
     "Firefox ESR"
-  ]
+  ],
+  "volta": {
+    "node": "16.17.0",
+    "npm": "8.19.1"
+  }
 }
